@@ -29,6 +29,7 @@
   <img src="https://cdn.svgporn.com/logos/visual-studio-code.svg" alt="visual-studio-code" width="30" height="30"/> &nbsp;
   <img src="https://cdn.svgporn.com/logos/cypress-icon.svg" alt="cypress" width="30" height="30"/> &nbsp;
   <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="30" height="30"/> &nbsp;  
+   <img src="https://cdn.svgporn.com/logos/playwright.svg" alt="playwright" width="30" height="30"/> &nbsp;
 </p>
 
 
